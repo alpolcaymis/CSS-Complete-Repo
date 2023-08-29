@@ -1,8 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
 #product-overview {
   background-color: tomato;
 }
 
-#plans {
-  color: antiquewhite;
-  font-family: "Qwitcher Grypen", cursive;
+.section-title {
+  color: green;
+  font-family: inherit;
+}
+
+#product-overview h1 {
+  color: white;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: sans-serif;
 }
