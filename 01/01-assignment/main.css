@@ -1,3 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
 .highligthed-code {
   color: green;
 }
@@ -10,4 +14,14 @@
 code {
   font-family: monospace;
   color: red;
+}
+
+li + li {
+  background-color: black;
+  color: white;
+}
+
+ol > li {
+  background-color: black;
+  color: white;
 }
