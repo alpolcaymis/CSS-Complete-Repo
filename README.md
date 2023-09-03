@@ -1,2 +1,3 @@
 # CSS-Complete-Repo
-![screencapture-127-0-0-1-5500-05-practicing-basics-index-html-2023-09-03-17_01_10](https://github.com/alpolcaymis/CSS-Complete-Repo/assets/71964088/ffd3e75e-2023-46da-9ff6-3d0386af504a)
+## 05
+![screencapture-127-0-0-1-5500-05-practicing-basics-index-html-2023-09-03-17_10_55](https://github.com/alpolcaymis/CSS-Complete-Repo/assets/71964088/ad8e4fa0-fba8-452c-89be-a1155946c5d5)
