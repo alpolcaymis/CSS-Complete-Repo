@@ -8,14 +8,3 @@
     </div>
 </div>
 
-<style>
-    .image-container {
-        
-        
-    }
-
-    .column {
-        
-        
-    }
-</style>
