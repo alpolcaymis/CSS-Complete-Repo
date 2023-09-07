@@ -6,7 +6,7 @@
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td><img style="height:300px;width:auto" src="https://github.com/alpolcaymis/CSS-Complete-Repo/assets/71964088/63a295d9-0ab3-4916-92c6-b3f918284ad4" alt="Image 1"></td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
