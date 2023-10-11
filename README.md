@@ -9,4 +9,5 @@
 #### For example, I'm dancing latino salsa. Every year I start from zero which means basic steps. And always I can find some litle tricky movement difference which I even notice before.
 
 
-25.gün 8
+25.gün 8 gün fire verdim
+43.gün 16 gün fire verdim
