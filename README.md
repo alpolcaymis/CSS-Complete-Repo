@@ -11,3 +11,4 @@
 
 25.gün 8 gün fire verdim
 43.gün 16 gün fire verdim
+44.gün 16 gün fire 12 ekim perşembe 2023
